@@ -10,9 +10,7 @@
       <img src="profile-3d-contrib/profile-night-rainbow.svg">
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://metrics.lecoq.io/gemini910610?achievements=1&achievements.threshold=X&achievements.secrets=true&achievements.display=compact">
-    </td>
-  </tr>
 </table>
+<p align="center">
+  <img src="https://metrics.lecoq.io/gemini910610?achievements=1&achievements.threshold=X&achievements.secrets=true&achievements.display=compact">
+</p>
