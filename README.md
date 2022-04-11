@@ -11,6 +11,6 @@
     </td>
   </tr>
 </table>
-<p align="center">
+<!--<p align="center">
   <img src="https://metrics.lecoq.io/gemini910610?achievements=1&achievements.threshold=X&achievements.secrets=true&achievements.display=compact">
-</p>
+</p>-->
