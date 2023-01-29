@@ -12,7 +12,7 @@
   </tr>
 </table>
 <p align="center">
-  <img height="100px" src="https://github-profile-trophy.vercel.app/?username=gemini910610&theme=discord&no-bg=true&no-frame=true&column=-1&margin-w=15&rank=-?" />
+  <img height="150px" src="https://github-profile-trophy.vercel.app/?username=gemini910610&theme=discord&no-bg=true&no-frame=true&column=-1&margin-w=15&rank=-?" />
 </p>
 <p align="center">
   <img width="7.9%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
