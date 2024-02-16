@@ -1,14 +1,18 @@
-<br><img align="right" width="65%" src="profile-3d-contrib/profile-night-rainbow.svg">
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=gemini910610&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true">
-<img align="left" height="5px" width="30%" src="">
-<a href="https://github.com/gemini910610/examine_system">
-  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini910610&repo=examine_system&theme=midnight-purple&hide_border=true">
-</a>
-<img align="left" height="5px" width="30%" src="">
+<img align="right" height="5px" width="30%" src="">
+<img align="right" width="65%" src="profile-3d-contrib/profile-night-rainbow.svg">
+<!--<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=gemini910610&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true">-->
 <a href="https://github.com/gemini910610/PASS">
   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini910610&repo=PASS&theme=midnight-purple&hide_border=true">
 </a>
-<img align="left" height="5px" width="30%" src="">
+<img align="left" height="10px" width="30%" src="">
+<a href="https://github.com/gemini910610/examine_system">
+  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini910610&repo=examine_system&theme=midnight-purple&hide_border=true">
+</a>
+<img align="left" height="10px" width="30%" src="">
+<a href="https://github.com/gemini910610/new_taipei_library">
+  <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini910610&repo=new_taipei_library&theme=midnight-purple&hide_border=true">
+</a>
+<img align="left" height="10px" width="30%" src="">
 <a href="https://github.com/gemini910610/github_notification">
   <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=gemini910610&repo=github_notification&theme=midnight-purple&hide_border=true">
 </a>
