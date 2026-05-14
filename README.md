@@ -7,9 +7,9 @@
 </div>
 <img align="right" height="5px" width="30%" src="https://placehold.co/10x10/transparent/transparent">
 <img align="right" width="65%" src="profile-3d-contrib/profile-night-rainbow.svg">
-<a href="https://github.com/gemini910610/ToothSegmentation">
+<!-- <a href="https://github.com/gemini910610/ToothSegmentation">
   <img align="left" width="30%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gemini910610&repo=ToothSegmentation&theme=midnight-purple&hide_border=true">
-</a>
+</a> -->
 <img align="left" height="10px" width="30%" src="https://placehold.co/10x10/transparent/transparent">
 <a href="https://github.com/gemini910610/MoneyRPG">
   <img align="left" width="30%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gemini910610&repo=MoneyRPG&theme=midnight-purple&hide_border=true">
